@@ -1,14 +1,18 @@
 {
   "stocksList": [
     {
-      "companyName": "TVSNext",
-      "numberOfShare": 20,
-      "sharePrice": 1000
+      "companyName": "TCS",
+      "numberOfShare": 5,
+      "sharePrice": 1000,
+      "date": "06-07-2021",
+      "time": "15:22:36"
     },
     {
-      "companyName": "CTS",
-      "numberOfShare": 37,
-      "sharePrice": 1020
+      "companyName": "TVSNext",
+      "numberOfShare": 7,
+      "sharePrice": 1088,
+      "date": "06-07-2021",
+      "time": "15:23:51"
     }
   ]
 }
