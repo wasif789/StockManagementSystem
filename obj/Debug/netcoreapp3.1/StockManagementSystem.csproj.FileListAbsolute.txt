@@ -1,0 +1,16 @@
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.exe
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.deps.json
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.runtimeconfig.json
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.runtimeconfig.dev.json
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.dll
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\StockManagementSystem.pdb
+C:\Users\wsffa\c#_projects\StockManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.csproj.AssemblyReference.cache
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.AssemblyInfoInputs.cache
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.AssemblyInfo.cs
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.csproj.CopyComplete
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.dll
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.pdb
+C:\Users\wsffa\c#_projects\StockManagementSystem\obj\Debug\netcoreapp3.1\StockManagementSystem.genruntimeconfig.cache
