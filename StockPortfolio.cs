@@ -11,15 +11,13 @@ namespace StockManagementSystem
         public void ReadInput()
         {
             StockManager stockManager = new StockManager();
-            //string filePath = @"C:\Users\HP1\source\repos\StockManagementSystem\StockManagementSystem\Stock.json";
-            //StockUtility stockUtility = JsonConvert.DeserializeObject<StockUtility>(File.ReadAllText(filePath));
-            StockUtility stockUtility = new StockUtility();
             bool CONTINUE = true;
 
             while (CONTINUE)
             {
-                Console.WriteLine("1.Print Report\n2.Add new Share\n3.Buy shares\n4.Sell share");
+                Console.WriteLine("1.Print Report\n2.Add new Share\n3.Buy shares\n4.Sell share\n5.Purchase Details");
                 int choice = Convert.ToInt32(Console.ReadLine());
+                //selection statement to select between operation
                 switch (choice)
                 {
                     case 1:
@@ -28,6 +26,7 @@ namespace StockManagementSystem
                     case 2:
                         stockManager.CreateNewStock();
                         break;
+
                     case 3:
                         Console.WriteLine("Enter the name of Share:");
                         string companyName = Console.ReadLine();
@@ -44,6 +43,10 @@ namespace StockManagementSystem
                         stockManager.SellShare(numOfShare, company);
                         break;
 
+                    case 5:
+                        stockManager.PuchaseDetail();
+                        break;
+
                     default:
                         Console.WriteLine("Invalid option");
                         CONTINUE = false;
@@ -51,5 +54,6 @@ namespace StockManagementSystem
                 }
             }
         }
+        
     }
 }
